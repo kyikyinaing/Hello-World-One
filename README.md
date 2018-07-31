@@ -1,6 +1,5 @@
 # Hello-World-One
-Just Another reposity
-Date 31/07/2018
+Just Another reposit
 Hi adimn,
 
 I don't like your idea.so ,i delete some code and makes changes.
