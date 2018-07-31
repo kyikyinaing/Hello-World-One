@@ -1,5 +1,5 @@
 # Hello-World-One
-Just Another reposity
+Just Another reposit
 Hi adimn,
 
 I don't like your idea.so ,i delete some code and makes changes.
